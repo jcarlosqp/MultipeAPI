@@ -1,4 +1,4 @@
-# MultipeAPI
+# Multiple API
 The concept is to request companies'API for freight offers and get the best deal
 
 START CONFIGURATION
