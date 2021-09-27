@@ -9,6 +9,8 @@ Set up multiple start for the solution. Enable start action for:
 
 -WebApis: CompanyOne.API, CompanyTwo.API and XMLCompany.API
 
+![image](https://user-images.githubusercontent.com/13142318/134831867-6976fa49-6d52-4d27-9517-da14f4566a14.png)
+
 
 
 TESTING DATA
